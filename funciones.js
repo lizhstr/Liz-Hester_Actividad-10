@@ -3,6 +3,6 @@ const string = "Hola";
 const boolean = false;
 let noValue;
 
-console.log(typeof number);
-console.log(typeof string);
-console.log(typeof noValue);
+console.log(number);
+console.log(string);
+console.log(noValue);
